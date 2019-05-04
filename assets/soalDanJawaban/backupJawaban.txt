@@ -1,0 +1,54 @@
+this.jawaban[0] = "MENGAN";
+		this.jawaban[1] = "NGINUM";
+		this.jawaban[2] = "MEJONG";
+		this.jawaban[3] = "BEGURAU";
+		this.jawaban[4] = "MOPPOH\nKAWAI";
+		this.jawaban[5] = "PEDOM";
+		this.jawaban[6] = "PINGGAN";
+		this.jawaban[7] = "SUDU";
+		this.jawaban[8] = "KAWAI";
+		this.jawaban[9] = "MIWANG";
+		
+		this.jawaban[10] = "CADANG";
+		this.jawaban[11] = "NUA";
+		this.jawaban[12] = "KHABAI";
+		this.jawaban[13] = "CEKELLANG";
+		this.jawaban[14] = "RANGUK";
+		this.jawaban[15] = "APUI\nBALAK";
+		this.jawaban[16] = "WAI\nPANAS";
+		this.jawaban[17] = "NIKU\nLAWANG";
+		this.jawaban[18] = "TIKKAP";
+		this.jawaban[19] = "SANAK\nLUNIK";
+		
+		this.jawaban[20] = "KEMENAKAN";
+		this.jawaban[21] = "ULUN\nTUHA";
+		this.jawaban[22] = "KILU\nMAHAP";
+		this.jawaban[23] = "NGOPOK";
+		this.jawaban[24] = "BUWOK\nTIJANG";
+		this.jawaban[25] = "NGEJUKUK";
+		this.jawaban[26] = "LAPAH JAMA\nSEKELIK";
+		this.jawaban[27] = "MINJAK\nPEDOM";
+		this.jawaban[28] = "DIBI";
+		this.jawaban[29] = "DEBINGI";
+		
+		this.jawaban[30] = "KILU\nTULUNG";
+		this.jawaban[31] = "KAWAI\nBASOH";
+		this.jawaban[32] = "BUJAMUK";
+		this.jawaban[33] = "DELOM";
+		this.jawaban[34] = "DILUAH";
+		this.jawaban[35] = "SAKIK\nHULU";
+		this.jawaban[36] = "GOTTO";
+		this.jawaban[37] = "NAYAH";
+		this.jawaban[38] = "KHADU";
+		this.jawaban[39] = "HULU\nPODO";
+		
+		this.jawaban[40] = "KAWAI\nPELIK";
+		this.jawaban[41] = "KUKUT\nPATOH";
+		this.jawaban[42] = "MESSOL\nMANUK";
+		this.jawaban[43] = "NGUBELI\nIWA";
+		this.jawaban[44] = "NIKU\nSEKOP";
+		this.jawaban[45] = "RANGUK";
+		this.jawaban[46] = "CUTIK";
+		this.jawaban[47] = "GANTA";
+		this.jawaban[48] = "JEMOH\nIBI";
+		this.jawaban[49] = "HUGA\nHUMPA";

@@ -1,0 +1,54 @@
+this.soal[0] = "Apa bahasa Lampung\ndari MAKAN?";
+		this.soal[1] = "Apa bahasa Lampung\ndari MINUM?";
+		this.soal[2] = "Apa bahasa Lampung\ndari DUDUK?";
+		this.soal[3] = "Apa bahasa Lampung\ndari BERMAIN?";
+		this.soal[4] = "Apa bahasa Lampung\ndari NYUCI BAJU?";
+		this.soal[5] = "Apa bahasa Lampung\ndari TIDUR?";
+		this.soal[6] = "Apa bahasa Lampung\ndari PIRING?";
+		this.soal[7] = "Apa bahasa Lampung\ndari SENDOK?";
+		this.soal[8] = "Apa bahasa Lampung\ndari BAJU?";
+		this.soal[9] = "Apa bahasa Lampung\ndari NANGIS?";
+		
+		this.soal[10] = "Apa bahasa Lampung\ndari RUSAK?";
+		this.soal[11] = "Apa bahasa Lampung\ndari RUMAH?";
+		this.soal[12] = "Apa bahasa Lampung\ndari TAKUT?";
+		this.soal[13] = "Apa bahasa Lampung\ndari LARI?";
+		this.soal[14] = "Apa bahasa Lampung\ndari PINTU?";
+		this.soal[15] = "Apa bahasa Lampung\ndari API BESAR?";
+		this.soal[16] = "Apa bahasa Lampung\ndari AIR PANAS?";
+		this.soal[17] = "Apa bahasa Lampung\ndari KAMU GILA?";
+		this.soal[18] = "Apa bahasa Lampung\ndari JENDELA?";
+		this.soal[19] = "Apa bahasa Lampung\ndari ANAK KECIL?";
+		
+		this.soal[20] = "Apa bahasa Lampung\ndari KEPONAKAN?";
+		this.soal[21] = "Apa bahasa Lampung\ndari ORANG TUA?";
+		this.soal[22] = "Apa bahasa Lampung\ndari MINTA MAAF?";
+		this.soal[23] = "Apa bahasa Lampung\ndari NGERUMPI?";
+		this.soal[24] = "Apa bahasa Lampung\ndari RAMBUT PANJANG?";
+		this.soal[25] = "Apa bahasa Lampung\ndari NGERUMPUT?";
+		this.soal[26] = "Apa bahasa Lampung\ndari PERGI SAMA SAUDARA?";
+		this.soal[27] = "Apa bahasa Lampung\ndari BANGUN TIDUR?";
+		this.soal[28] = "Apa bahasa Lampung\ndari SORE?";
+		this.soal[29] = "Apa bahasa Lampung\ndari MALAM?";
+		
+		this.soal[30] = "Apa bahasa Lampung\ndari MINTA TOLONG?";
+		this.soal[31] = "Apa bahasa Lampung\ndari BAJU BASAH";
+		this.soal[32] = "Apa bahasa Lampung\ndari SEMBUNYI?";
+		this.soal[33] = "Apa bahasa Lampung\ndari DI DALAM?";
+		this.soal[34] = "Apa bahasa Lampung\ndari DI LUAR?";
+		this.soal[35] = "Apa bahasa Lampung\ndari SAKIT KEPALA?";
+		this.soal[36] = "Apa bahasa Lampung\ndari PETIR?";
+		this.soal[37] = "Apa bahasa Lampung\ndari BANYAK?";
+		this.soal[38] = "Apa bahasa Lampung\ndari SELESAI?";
+		this.soal[39] = "Apa bahasa Lampung\ndari KEPALA PUSING?";
+		
+		this.soal[40] = "Apa bahasa Lampung\ndari BAJU SEMPIT?";
+		this.soal[41] = "Apa bahasa Lampung\ndari KAKI PATAH";
+		this.soal[42] = "Apa bahasa Lampung\ndari MOTONG AYAM?";
+		this.soal[43] = "Apa bahasa Lampung\ndari BELI IKAN?";
+		this.soal[44] = "Apa bahasa Lampung\ndari KAMU CANTIK?";
+		this.soal[45] = "Apa bahasa Lampung\ndari PINTU?";
+		this.soal[46] = "Apa bahasa Lampung\ndari SEDIKIT?";
+		this.soal[47] = "Apa bahasa Lampung\ndari SEKARANG?";
+		this.soal[48] = "Apa bahasa Lampung\ndari BESOK SORE?";
+		this.soal[49] = "Apa bahasa Lampung\ndari MAU KEMANA?";
